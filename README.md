@@ -44,4 +44,4 @@ werden können.
 Weitere Informationen
 ---------------------
 
-[Institutswebseite (ACS)](http://www.acs.eonerc.rwth-aachen.de/go/id/fzml)
+[Institutswebseite (ACS)](https://www.acs.eonerc.rwth-aachen.de/go/id/fzml)
