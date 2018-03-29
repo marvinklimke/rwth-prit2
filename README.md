@@ -7,6 +7,19 @@ Technische Informatik an der RWTH Aachen, welche ich im Wintersemester 2016/17
 erstellt habe.
 
 
+Dateien & Verzeichnisse
+-----------------------
+
+| Datei/Verzeichnis     | Verwendung                 |
+|-----------------------|----------------------------|
+| `Aufgabenblock_1`     | Aufgabe 1, 1d, 2, 3        |
+| `Aufgabenblock_2`     | Aufgabe 4, 5, 6, 6a        |
+| `Aufgabenblock_3`     | Aufgabe 7, 8, 9a, 9b, 9c   |
+| `Strassenverkehr.sln` | Visual Studio Projektmappe |
+| `LICENSE`             | MIT Lizenztext             |
+| `README.md`           | Diese Datei                |
+
+
 Zusätzliche Dateien
 -------------------
 
@@ -20,7 +33,7 @@ liegen.
 |------------------|--------------------------------------|
 | `SimuClient.h`   | Projektverzeichnis (Aufgabenblock_X) |
 | `SimuClient.lib` | Projektverzeichnis (Aufgabenblock_X) |
-| `SimuClient.dll` | Arbeitsverzeichnis (Debug/Release)   |
+| `SimuClient.dll` | Arbeitsverzeichnis (Debug|Release)   |
 | `SimuServer.jar` | Projektverzeichnis (Aufgabenblock_X) |
 
 Zudem werden in Aufgabenblock 3 die Datendateien `VO.dat`, `Simu.dat` und
