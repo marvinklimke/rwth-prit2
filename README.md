@@ -27,6 +27,7 @@ Zudem werden in Aufgabenblock 3 die Datendateien `VO.dat`, `Simu.dat` und
 `SimuDisplay.dat` benötigt, die ebenfalls im Projektverzeichnis abgelegt
 werden können.
 
+
 Weitere Informationen
 ---------------------
 
