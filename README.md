@@ -6,7 +6,6 @@ Praktikum Informatik 2 im Studiengang Elektrotechnik, Informationsstechnik und
 Technische Informatik an der RWTH Aachen, welche ich im Wintersemester 2016/17
 erstellt habe.
 
-
 Dateien & Verzeichnisse
 -----------------------
 
@@ -18,7 +17,6 @@ Dateien & Verzeichnisse
 | `Strassenverkehr.sln` | Visual Studio Projektmappe |
 | `LICENSE`             | MIT Lizenztext             |
 | `README.md`           | Diese Datei                |
-
 
 Zusätzliche Dateien
 -------------------
@@ -39,7 +37,6 @@ liegen.
 Zudem werden in Aufgabenblock 3 die Datendateien `VO.dat`, `Simu.dat` und
 `SimuDisplay.dat` benötigt, die ebenfalls im Projektverzeichnis abgelegt
 werden können.
-
 
 Weitere Informationen
 ---------------------
